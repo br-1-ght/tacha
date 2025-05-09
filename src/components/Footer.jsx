@@ -17,12 +17,12 @@ export default function Footer() {
             <i class="bi bi-telephone-fill"></i>
         </a>
         <a href="https://www.instagram.com/abisola_shotit?igsh=MWRwMHFuaWttd2QwZg==" className="footer-icon">
-            <i class="bi bi-snapchat"></i>
+            <i class="bi bi-instagram"></i>
         </a>
       </div>
       <div className="footer-copyright">
-        <p>Akinsola Abisola Tobiloba</p>
-        <p className="report-page">Report page<i class="bi bi-flag-fill"></i></p>
+        <h4>AAS "AbisolaAkinsolaShotit</h4>
+        <h4 className="report-page">Report page<i class="bi bi-flag-fill"></i></h4>
       </div>
     </footer>
   );
