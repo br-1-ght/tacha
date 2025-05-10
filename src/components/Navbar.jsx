@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar">
       <h1 className="logo">AAS "AbisolaAkinsolaShotit"</h1>
       <div className="nav-buttons">
-        <a href="https://wa.me/+2348101379235" className="resume-btn">ORDER NOW</a>
+        <a href="https://wa.me/+2348101379235" className="resume-btn">BOOK NOW</a>
       </div>
     </nav>
   );

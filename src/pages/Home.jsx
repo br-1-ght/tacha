@@ -43,7 +43,7 @@ export default function Hero() {
         <div className="hero-image">
           <img
             ref={imageRef}
-            src="./assets/images/tacha12.jpg"
+            src="./assets/images/tachahome.jpg"
             alt="Profile"
             className={`fade-image ${isVisible ? "visible" : ""}`}
           />
